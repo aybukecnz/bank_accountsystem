@@ -1,0 +1,11 @@
+C:\Users\aybuke\Desktop\txt ile bank\bankapptxt\bankapptxt\bin\Debug\bankapptxt.exe
+C:\Users\aybuke\Desktop\txt ile bank\bankapptxt\bankapptxt\bin\Debug\bankapptxt.exe.config
+C:\Users\aybuke\Desktop\txt ile bank\bankapptxt\bankapptxt\obj\Debug\bankapptxt.csproj.AssemblyReference.cache
+C:\Users\aybuke\Desktop\txt ile bank\bankapptxt\bankapptxt\obj\Debug\BankApp.DashboardForm.resources
+C:\Users\aybuke\Desktop\txt ile bank\bankapptxt\bankapptxt\obj\Debug\bankapptxt.Form1.resources
+C:\Users\aybuke\Desktop\txt ile bank\bankapptxt\bankapptxt\obj\Debug\bankapptxt.Properties.Resources.resources
+C:\Users\aybuke\Desktop\txt ile bank\bankapptxt\bankapptxt\obj\Debug\bankapptxt.csproj.GenerateResource.cache
+C:\Users\aybuke\Desktop\txt ile bank\bankapptxt\bankapptxt\obj\Debug\bankapptxt.csproj.CoreCompileInputs.cache
+C:\Users\aybuke\Desktop\txt ile bank\bankapptxt\bankapptxt\obj\Debug\bankapptxt.exe
+C:\Users\aybuke\Desktop\txt ile bank\bankapptxt\bankapptxt\obj\Debug\bankapptxt.pdb
+C:\Users\aybuke\Desktop\txt ile bank\bankapptxt\bankapptxt\bin\Debug\bankapptxt.pdb
