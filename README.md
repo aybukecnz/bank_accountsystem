@@ -36,8 +36,9 @@ All account data and transaction history are **stored in a text file**, ensuring
 <img width="534" height="301" alt="image" src="https://github.com/user-attachments/assets/a85929ac-a75d-4952-99b9-38601554f97d" />
    
 <img width="533" height="367" alt="image" src="https://github.com/user-attachments/assets/23eb3827-9524-440f-8a28-535591d70e8b" />
+
 ## Example
-   -Create user, register.
+- Create user, register.
 <img width="803" height="564" alt="image" src="https://github.com/user-attachments/assets/9fee8fd8-398f-4ea9-bed2-3b4d0ddf7227" />
 
 <img width="810" height="573" alt="image" src="https://github.com/user-attachments/assets/43bbf945-f7cb-400f-91e0-3a00cb770b15" />
