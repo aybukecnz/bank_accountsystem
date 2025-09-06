@@ -21,10 +21,10 @@ All account data and transaction history are **stored in a text file**, ensuring
 ## 🚀 How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/aybukecnz/bank_accountsystem.git
-   cd bank_accountsystem
-   ```
+ ```bash
+ git clone https://github.com/aybukecnz/bank_accountsystem.git
+ cd bank_accountsystem
+ ```
    
 2. Open the project in Visual Studio.
 
@@ -33,11 +33,22 @@ All account data and transaction history are **stored in a text file**, ensuring
 
 4. Follow the console prompts to register, log in, and perform banking operations.
    
-   <img width="534" height="301" alt="image" src="https://github.com/user-attachments/assets/a85929ac-a75d-4952-99b9-38601554f97d" />
+<img width="534" height="301" alt="image" src="https://github.com/user-attachments/assets/a85929ac-a75d-4952-99b9-38601554f97d" />
    
-   <img width="533" height="367" alt="image" src="https://github.com/user-attachments/assets/23eb3827-9524-440f-8a28-535591d70e8b" />
+<img width="533" height="367" alt="image" src="https://github.com/user-attachments/assets/23eb3827-9524-440f-8a28-535591d70e8b" />
+## Example
+   -Create user, register.
+<img width="803" height="564" alt="image" src="https://github.com/user-attachments/assets/9fee8fd8-398f-4ea9-bed2-3b4d0ddf7227" />
 
+<img width="810" height="573" alt="image" src="https://github.com/user-attachments/assets/43bbf945-f7cb-400f-91e0-3a00cb770b15" />
 
+- Log in 
+<img width="789" height="560" alt="image" src="https://github.com/user-attachments/assets/a6af4a3d-8ed4-4dd6-bcff-d368ac401d62" />
+
+- Withdraw or deposit 
+<img width="1049" height="806" alt="image" src="https://github.com/user-attachments/assets/60987b73-a9fa-459b-a912-974843a9e880" />
+  
+<img width="1033" height="808" alt="image" src="https://github.com/user-attachments/assets/d6751a16-389a-40e6-8ebd-811ec480527f" />
 
 ## 📈 Future Improvements
 
